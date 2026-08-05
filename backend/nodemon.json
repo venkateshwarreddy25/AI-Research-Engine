@@ -1,0 +1,9 @@
+{
+  "watch": ["src"],
+  "ext": "js,json",
+  "ignore": ["src/**/*.test.js", "src/**/__tests__/**", "logs/"],
+  "delay": 200,
+  "env": {
+    "NODE_ENV": "development"
+  }
+}
